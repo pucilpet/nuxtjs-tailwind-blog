@@ -23,21 +23,14 @@
           :href="`mailto:${siteMetadata.email}`"
           ><span class="sr-only">mail</span>
           <img class="w-8 h-8" src="~assets/icon/mail.svg" /></a
-        ><a
-          class="text-sm text-gray-500 transition hover:text-gray-600"
-          target="_blank"
-          rel="noopener noreferrer"
-          :href="siteMetadata.facebook"
-          ><span class="sr-only">facebook</span>
-          <img class="w-8 h-8" src="~assets/icon/facebook.svg"
-        /></a>
+        >
         <a
           class="text-sm text-gray-500 transition hover:text-gray-600"
           target="_blank"
           rel="noopener noreferrer"
-          :href="siteMetadata.youtube"
-          ><span class="sr-only">youtube</span>
-          <img class="w-8 h-8" src="~assets/icon/youtube.svg"
+          :href="siteMetadata.twitter"
+          ><span class="sr-only">twitter</span>
+          <img class="w-8 h-8" src="~assets/icon/twitter.svg"
         /></a>
       </div>
       <div class="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">

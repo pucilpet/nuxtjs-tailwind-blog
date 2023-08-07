@@ -18,11 +18,11 @@ const siteMetadata = {
   email: "info@ppweb.fi",
   github: "https://github.com/pucilpet",
   githubUser: "pucilpet",
-  twitter: "#",
+  twitter: "https://x.com/pucilpet",
   twitter_user: "pucilpet",
   stackoverflow: "#",
   youtube: "#",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/petteri-pucilowski-a0921a99/",
 };
 
 export default siteMetadata;
