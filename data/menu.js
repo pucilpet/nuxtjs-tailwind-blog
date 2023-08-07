@@ -1,7 +1,7 @@
 const menu = [
-  { name: "Home", path: "/" },
-  { name: "Projects", path: "/projects" },
-  { name: "Blog", path: "/blog" },
+  { name: "Etusivu", path: "/" },
+  { name: "Projektit", path: "/projects" },
+  { name: "Blogi", path: "/blog" },
 ];
 
 export default menu;

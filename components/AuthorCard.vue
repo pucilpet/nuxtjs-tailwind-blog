@@ -5,7 +5,7 @@
         :src="siteMetadata.author_image"
         loading="lazy"
         alt="me"
-        class="shadow-xl md:h-60 md:w-60 h-40 w-40 rounded-full"
+        class="shadow-xl sm:h-40 sm:w-40 h-20 w-20 rounded-full mx-auto"
       />
       <div class="mb-2 mx-7 mt-4 justify-center items-center">
         <h1
