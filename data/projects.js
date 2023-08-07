@@ -1,63 +1,27 @@
 const projectsData = [
   {
-    title: "Tailwind Designer Portfolio",
-    description: `Current version. Improved the blog a lot, rebuilt with tailwind`,
+    title: "Hius Studio Valentina",
+    description: `Hius Studio Valentina on jyväskyläläinen kauneushoitola, jossa sinua palvelee ammattitaitoinen parturikampaaja ja taitava kosmetologi. He tarvitsivat uuden verkkosivun ja ajanvaraussysteemin. Rakennettu Wordpressilla
+    Käyttää kustomoitua pohjaa
+    `,
     imgSrc: "",
-    href: "#",
+    href: "https://hiusstudiovalentina.fi/",
     github: "#",
-    tech1: "Next",
-    tech2: "Markdown",
-    tech3: "TailwindCSS",
+    tech1: "Wordpress",
   },
   {
-    title: "Tailwind Landing Page",
-    description: `Again, some improvements. Moved from Gastby to Next, started to blog`,
+    title: "KRI lomamajojen varaus",
+    description: `Teimme KRI:lle varausjärjestelmän heidän lomamajojen varausta 
+    varten. KRI:llä on kolme lomamajaa ja majat on hinnoiteltu viikoittain. 
+    Lisäsimme lomamajojen varausjärjestelmään myös 
+    mahdollisuuden ennakkovarata tulevan vuoden lomamajoja. Lomamajojen varaus on sallittu vain KRI:n jäsenille.   
+    `,
     imgSrc: "",
-    href: "",
+    href: "https://www.kri.fi/lomamajat/",
     github: "#",
-    tech1: "Next",
-    tech2: "Markdown",
-    tech3: "SCSS",
-  },
-  {
-    title: "Web3 - Solana",
-    description: `Current version. Improved the blog a lot, rebuilt with tailwind`,
-    imgSrc: "",
-    href: "#",
-    github: "#",
-    tech1: "Next",
-    tech2: "Markdown",
-    tech3: "TailwindCSS",
-  },
-  {
-    title: "Polygon Scanner API",
-    description: `Again, some improvements. Moved from Gastby to Next, started to blog`,
-    imgSrc: "",
-    href: "",
-    github: "#",
-    tech1: "Next",
-    tech2: "Markdown",
-    tech3: "SCSS",
-  },
-  {
-    title: "Personal website 2.0",
-    description: `Second version of my personal website. Little improvements, showing projects and more.`,
-    imgSrc: "",
-    href: "",
-    github: "#",
-    tech1: "Gatsby",
-    tech2: "graphQL",
-    tech3: "CSS",
-  },
-  {
-    title: "Tailwind NuxtJs Blog Starter",
-    description: `First version of my personal website. Nothing spectacular, just to buy domain and try things.`,
-    imgSrc: "",
-    href: "",
-    github: "https://github.com/mdrathik/tailwind-nuxt-blog-starter",
-    tech1: "Gatsby",
-    tech2: "Heroku",
-    tech3: "Bootstrap",
+    tech1: "Wordpress",
+    tech2: "Ajanvaraus",
+    tech3: "Kustomoitu"
   },
 ];
 

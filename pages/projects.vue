@@ -4,10 +4,10 @@
       <h1
         class="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
       >
-        Projects
+        Projektit
       </h1>
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
-        Some of the projects I've build or been a part of.
+        Alta löydät viimeisimmät projektini:
       </p>
     </div>
     <main class="relative mb-auto">
@@ -41,14 +41,14 @@ export default {
     };
   },
   head: {
-    title: "Md Solaiman | Projects",
+    title: "PP Web Consulting | Projects",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
         hid: "description",
         name: "description",
-        content: "Some of Projects developed by Solaiman",
+        content: "Alta löydät viimeisimmät projektimme.",
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
