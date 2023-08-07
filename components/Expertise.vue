@@ -4,7 +4,7 @@
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
-        Frontend
+        Teknologiat
       </h2>
 
       <ul class="flex flex-wrap gap-4 items-center">
@@ -14,10 +14,10 @@
 
         <li class="flex items-center">
           <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
-        </li> -->
+        </li> 
         <li class="flex items-center">
           <Bootstrap class="h-10 w-10"></Bootstrap>
-        </li>
+        </li> -->
         <li class="flex items-center">
           <TailwindCss class="h-10 w-10"></TailwindCss>
         </li>
@@ -36,14 +36,17 @@
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
-        Backend
+        CMS / Sovellukset
       </h2>
       <ul class="mb-6 flex flex-wrap gap-4">
         <li class="flex items-center">
-          <Laravel class="h-10 w-10"></Laravel>
+          <Wordpress class="h-10 w-10"></Wordpress>
         </li>
         <li class="flex items-center">
-          <Node class="h-10 w-10"></Node>
+          <Prestashop class="h-10 w-10"></Prestashop>
+        </li>
+        <li class="flex items-center">
+          <Zapier class="h-10 w-20"></Zapier>
         </li>
       </ul>
     </div>
@@ -60,6 +63,9 @@ import Nuxt from "../assets/devicon/nuxt.svg?inline";
 import Bootstrap from "../assets/devicon/bootstrap.svg?inline";
 import Laravel from "../assets/devicon/laravel.svg?inline";
 import Node from "../assets/devicon/node.svg?inline";
+import Wordpress from "../assets/devicon/wordpress.svg?inline";
+import Prestashop from "../assets/devicon/prestashop.svg?inline";
+import Zapier from "../assets/devicon/zapier.svg?inline";
 export default {
   components: {
     Javascript,
@@ -71,6 +77,9 @@ export default {
     Nuxt,
     Laravel,
     Node,
+    Wordpress,
+    Prestashop,
+    Zapier
   },
 };
 </script>
